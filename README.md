@@ -16,7 +16,7 @@
 
 프로그램 실행결과
 
-![프로그램 실행 결과](C:\Users\isitika\IdeaProjects\isitika\프로그램 실행 결과.png)
+![](C:\Users\isitika\IdeaProjects\isitika\프로그램 실행 결과.png)
 
 -위 실행결과 화면은 인터페이스를 만드신 분의 실행결과로 인터페이스를 만든 분은 이클립스를 저는 다른 인텔리 제이를 이용해서 이미지를 적용하는데 실패해 이미지가 안 나올 수 있습니다. 
 
